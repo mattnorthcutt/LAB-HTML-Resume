@@ -1,3 +1,22 @@
 body {
-  background-color: brown;
-}
+    background-color: blanchedalmond;
+  }
+  
+  h2{
+    color:rgb(141, 107, 93);
+  }
+  
+  article{
+    padding: 25px;
+  }
+  
+  #articleOne{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 6px dotted brown;
+  }
+  
+  #articleTwo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    border: 5px solid yellow;
+    background-color: brown;
+  }
